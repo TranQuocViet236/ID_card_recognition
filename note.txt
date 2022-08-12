@@ -1,0 +1,7 @@
+BIÊN BẢN BÀN GIAO CĂN HỘ
+    - table index: 1464
+    - row1: [1553-1555, 1555-1557, 1557-1559, 1559-1561, 1561-1563]
+     -row2: [1564-1566, .....]
+
+BIÊN BẢN BÀN GIAO GIẤY TỜ
+    - table index: 957
